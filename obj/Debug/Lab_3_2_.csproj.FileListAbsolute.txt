@@ -1,0 +1,14 @@
+D:\C#\Lab_3_2_\bin\Debug\Lab_3_2_.exe.config
+D:\C#\Lab_3_2_\bin\Debug\Lab_3_2_.exe
+D:\C#\Lab_3_2_\bin\Debug\Lab_3_2_.pdb
+D:\C#\Lab_3_2_\obj\Debug\Lab_3_2_.csprojAssemblyReference.cache
+D:\C#\Lab_3_2_\obj\Debug\MainWindow.g.cs
+D:\C#\Lab_3_2_\obj\Debug\App.g.cs
+D:\C#\Lab_3_2_\obj\Debug\Lab_3_2__MarkupCompile.cache
+D:\C#\Lab_3_2_\obj\Debug\Lab_3_2__MarkupCompile.lref
+D:\C#\Lab_3_2_\obj\Debug\MainWindow.baml
+D:\C#\Lab_3_2_\obj\Debug\Lab_3_2_.g.resources
+D:\C#\Lab_3_2_\obj\Debug\Lab_3_2_.Properties.Resources.resources
+D:\C#\Lab_3_2_\obj\Debug\Lab_3_2_.csproj.GenerateResource.cache
+D:\C#\Lab_3_2_\obj\Debug\Lab_3_2_.exe
+D:\C#\Lab_3_2_\obj\Debug\Lab_3_2_.pdb
